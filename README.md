@@ -1,2 +1,1 @@
-# DSA-RECORD
-dsa programs
+# DSA-LAB-RECORD
